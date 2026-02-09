@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+textblob
+google-generativeai
+python-dotenv
+google-auth
+requests
